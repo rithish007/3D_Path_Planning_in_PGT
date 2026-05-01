@@ -23,6 +23,17 @@ The system uses **procedural terrain generation** to evaluate algorithm performa
 ## 🖼️ Results
 
 ### D* 3D
+<img width="400" height="Auto" alt="DS3D_2DPLOT_PC" src="https://github.com/user-attachments/assets/f316a366-6fb0-4931-b8c1-2270ba1784c9" />
+
+### RRT* 3D
+<img width="400" height="Auto" alt="RRTS3DBIGENV" src="https://github.com/user-attachments/assets/243d2bb5-8a51-42ef-8280-8938b727ffdb" />
+
+### RRT 3D
+<img width="400" height="Auto" alt="RRT3D_2DPlot" src="https://github.com/user-attachments/assets/86556ff2-9a52-40a6-af11-2cdc62188d1a" />
+
+### Perlin Noise Env Test
+<img width="400" height="Auto" alt="3DPlanning" src="https://github.com/user-attachments/assets/7fd18150-5272-4348-b08e-44cfda3c4d4c" />
+
 
 ## 📊 Key Findings
 - **D* 3D** → Fastest planning (~1.36s) and shortest path  
