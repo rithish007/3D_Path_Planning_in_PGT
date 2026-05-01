@@ -36,6 +36,6 @@ The system uses **procedural terrain generation** to evaluate algorithm performa
 
 
 ## 📊 Key Findings
-- **D* 3D** → Fastest planning (~1.36s) and shortest path  
+- **D Star 3D** → Fastest planning (~1.36s) and shortest path  
 - **RRT 3D** → Strong exploration in unknown environments  
-- **RRT* 3D** → Best path optimality but higher computation time (~6.81s) :contentReference[oaicite:0]{index=0}
+- **RRT Star 3D** → Best path optimality but higher computation time (~6.81s) :contentReference[oaicite:0]{index=0}
